@@ -1,0 +1,27 @@
+{
+  "name": "quxuan-daily",
+  "displayName": "AI Recipe & Life Assistant",
+  "version": "2.1.0",
+  "description": "Smart recipe generator and daily life assistant AI菜谱与生活助手 - creates detailed recipes with ingredients, step-by-step instructions, nutrition analysis, allergen warnings, and substitution suggestions. 智能生成详细菜谱（含食材用量、步骤、营养分析）和生活技巧建议，适合家庭烹饪和日常生活咨询。",
+  "author": "wuEr",
+  "license": "MIT",
+  "pricing": {
+    "model": "free"
+  },
+  "tags": [
+    "recipe",
+    "cooking",
+    "nutrition",
+    "food",
+    "life-assistant",
+    "AI",
+    "菜谱",
+    "食谱",
+    "做饭",
+    "生活助手",
+    "营养分析",
+    "家常菜"
+  ],
+  "minOpenClawVersion": "1.2.0",
+  "repository": "https://github.com/BTC520ME/quxuan-daily"
+}

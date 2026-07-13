@@ -1,0 +1,30 @@
+{
+  "name": "quxuan-copywriter",
+  "displayName": "AI Marketing Copy Engine",
+  "version": "2.1.0",
+  "description": "Professional AI copywriting engine 专业AI文案生成器 - for multi-platform content creation: Xiaohongshu, Douyin, WeChat Moments, information flow ads, product descriptions, SEO articles, and ad copy with A/B testing and CTA optimization. 支持小红书、抖音、朋友圈、信息流广告、商品描述、SEO文章等多平台内容创作。",
+  "author": "wuEr",
+  "license": "MIT",
+  "pricing": {
+    "model": "one-time",
+    "price": 999
+  },
+  "tags": [
+    "copywriting",
+    "marketing",
+    "xiaohongshu",
+    "douyin",
+    "SEO",
+    "ads",
+    "social-media",
+    "文案",
+    "小红书",
+    "抖音",
+    "广告文案",
+    "自媒体",
+    "内容创作",
+    "营销"
+  ],
+  "minOpenClawVersion": "1.2.0",
+  "repository": "https://github.com/BTC520ME/quxuan-copywriter"
+}

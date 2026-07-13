@@ -1,0 +1,32 @@
+{
+  "name": "quxuan-revenue-engine",
+  "displayName": "AI Revenue Engine 收益引擎",
+  "version": "2.1.0",
+  "description": "Enterprise-grade AI revenue optimization engine 企业级AI收益优化引擎 - dynamic pricing strategy, user behavior analysis, conversion funnel optimization, A/B testing framework, retention scoring, and LTV prediction. 动态定价策略、用户行为分析、转化漏斗优化、A/B测试框架、留存评分与LTV预测。",
+  "author": "wuEr",
+  "license": "MIT",
+  "pricing": {
+    "model": "one-time",
+    "price": 2999
+  },
+  "tags": [
+    "revenue",
+    "pricing",
+    "conversion",
+    "analytics",
+    "AB-testing",
+    "retention",
+    "LTV",
+    "growth",
+    "收益",
+    "定价策略",
+    "转化率",
+    "数据分析",
+    "用户增长",
+    "留存优化",
+    "商业智能",
+    "营收增长"
+  ],
+  "minOpenClawVersion": "1.2.0",
+  "repository": "https://github.com/BTC520ME/quxuan-revenue-engine"
+}

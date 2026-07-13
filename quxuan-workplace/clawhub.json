@@ -1,0 +1,29 @@
+{
+  "name": "quxuan-workplace",
+  "displayName": "Workplace Productivity Suite",
+  "version": "2.1.0",
+  "description": "All-in-one workplace productivity suite 职场效率工具箱 - resume optimization with STAR method, bilingual business email generator, natural language to Excel formula converter, and contract template builder. 简历优化、商务邮件、Excel公式、合同模板四大功能。",
+  "author": "wuEr",
+  "license": "MIT",
+  "pricing": {
+    "model": "one-time",
+    "price": 499
+  },
+  "tags": [
+    "resume",
+    "email",
+    "excel",
+    "contract",
+    "workplace",
+    "productivity",
+    "简历",
+    "邮件",
+    "职场",
+    "Excel公式",
+    "合同",
+    "办公效率",
+    "求职"
+  ],
+  "minOpenClawVersion": "1.2.0",
+  "repository": "https://github.com/BTC520ME/quxuan-workplace"
+}

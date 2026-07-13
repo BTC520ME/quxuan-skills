@@ -1,0 +1,25 @@
+{
+  "name": "quxuan-travel",
+  "displayName": "AI Travel Planner",
+  "version": "2.1.0",
+  "description": "Smart travel guide generator 智能旅游攻略生成器 - creates detailed itineraries with daily schedules, food recommendations, accommodation, transportation, and budget breakdowns for any destination worldwide. 输入目的地和天数，自动生成每日行程、美食推荐、住宿建议、交通指南和预算明细。",
+  "author": "wuEr",
+  "license": "MIT",
+  "pricing": {
+    "model": "free"
+  },
+  "tags": [
+    "travel",
+    "itinerary",
+    "tourism",
+    "budget-planner",
+    "AI",
+    "旅行",
+    "旅游攻略",
+    "行程规划",
+    "旅行助手",
+    "自由行"
+  ],
+  "minOpenClawVersion": "1.2.0",
+  "repository": "https://github.com/BTC520ME/quxuan-travel"
+}

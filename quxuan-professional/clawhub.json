@@ -1,0 +1,29 @@
+{
+  "name": "quxuan-professional",
+  "displayName": "Legal & Tax Advisor Assistant",
+  "version": "2.1.0",
+  "description": "Professional legal information organizer and tax guidance assistant 专业法律顾问与财税助手 - law article references, rights protection guide, tax filing procedures, contract risk review, and labor arbitration guide. All outputs include disclaimers. 法条引用、维权指引、报税流程、合同审核、劳动仲裁指南，所有输出带免责声明。",
+  "author": "wuEr",
+  "license": "MIT",
+  "pricing": {
+    "model": "one-time",
+    "price": 1499
+  },
+  "tags": [
+    "legal",
+    "tax",
+    "contract-review",
+    "labor-law",
+    "compliance",
+    "professional",
+    "法律",
+    "税务",
+    "合同审查",
+    "劳动法",
+    "维权",
+    "法律咨询",
+    "报税"
+  ],
+  "minOpenClawVersion": "1.2.0",
+  "repository": "https://github.com/BTC520ME/quxuan-professional"
+}
